@@ -5,6 +5,7 @@ go build console_input.go
 After running above build command
 run ./console_input [your values]
 */
+
 package main
 
 import (
